@@ -46,15 +46,8 @@
 
 
 
+[instagram]: https://instagram.com/_suraj_xd
 
-<!-- 
-[website]: http://susnatagoswami.netlify.app
-[instagram]: https://instagram.com/susnatoww
-[twitter]: https://twitter.com/susnatoww
-
-[linkedin]: https://www.linkedin.com/in/susnata-goswami-5303961a6/
-
-**Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{proghead00}/count.svg) -->
+[linkedin]: https://www.linkedin.com/in/suraj-kumar-1538a0186
 
 
