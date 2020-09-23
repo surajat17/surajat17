@@ -7,11 +7,14 @@
 - 🚀 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Expertise in web development, contribute to Open Source projects and survive this pandemic!
 - ⚡Facts about me: I listen to all kind of music and i binge-watch movies and tv series!
-
+<br>
 
 
 ---
-[![Spotify](https://surajxd.novatorem-beta-one.vercel.app/api/spotify)](https://open.spotify.com/user/surajxd)
+[![Spotify](https://novatorem-beta-one.vercel.app/api/spotify)](https://open.spotify.com/user/viwy1zox0047qzp3cn85hud9e)
+
+---
+<br>
 
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
