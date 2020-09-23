@@ -11,6 +11,9 @@
 
 
 ---
+
+### Spotify: Now Playing 🎧
+
 [![Spotify](https://novatorem-beta-one.vercel.app/api/spotify)](https://open.spotify.com/user/viwy1zox0047qzp3cn85hud9e)
 
 ---
