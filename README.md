@@ -29,7 +29,9 @@
 
 <img src="https://octodex.github.com/images/heisencat.png" height="400px" width="340px"> 
  </p>
- ---
+
+<br>
+---
 
 ### Connect with me:
 
