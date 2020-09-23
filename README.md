@@ -11,8 +11,7 @@
 
 
 ---
-<!-- ### Spotify: Now Playing 🎧
-[![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/user/21kwh562lf32fbf4b663xkfbq) -->
+[![Spotify](https://surajxd.novatorem-beta-one.vercel.app/api/spotify)](https://open.spotify.com/user/surajxd)
 
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
