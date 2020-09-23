@@ -41,7 +41,7 @@
  -->
 
 
-[![suraj's github stats](https://github-readme-stats-sooty-rho.vercel.app]
+![suraj's github stats](https://github-readme-stats-sooty-rho.vercel.app
 /api?username=surajat17&show_icons=true&theme=dracula)
 
 
