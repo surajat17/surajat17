@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on React.JS
 - 🚀 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Expertise in web development, contribute to Open Source projects and survive this pandemic!
+- 🥅 2021 Goals: Expertise in web development, contribute to Open Source projects and survive this pandemic!
 - ⚡Facts about me: I listen to all kind of music and i binge-watch movies and tv series!
 <br>
 
