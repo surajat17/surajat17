@@ -7,14 +7,6 @@
 - 🚀 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Expertise in web development, contribute to Open Source projects and survive this pandemic!
 - ⚡Facts about me: I listen to all kind of music and i binge-watch movies, anime and tv series!
-<br>
-
-
----
-
-### Spotify: Now Playing 🎧
-
-[![Spotify](https://novatorem-beta-one.vercel.app/api/spotify)](https://open.spotify.com/user/viwy1zox0047qzp3cn85hud9e)
 
 ---
 <br>
