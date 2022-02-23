@@ -42,7 +42,7 @@
 
 
 
-[instagram]: https://instagram.com/_suraj_xd
+[instagram]: https://instagram.com/it_iz_wht_it_is
 
 [linkedin]: https://www.linkedin.com/in/suraj-kumar-1538a0186
 
